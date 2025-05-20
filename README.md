@@ -26,9 +26,8 @@ You can view the live website here: [https://your-portfolio.vercel.app](https://
 
 ## 📸 Screenshots
 
-| Home | Projects | Contact |
-|------|----------|---------|
-| ![Home](public/screenshots/home.png) | ![Projects](public/screenshots/projects.png) | ![Contact](public/screenshots/contact.png) |
+![image](https://github.com/user-attachments/assets/1a3695ec-4edb-4e38-9d26-9979b1070852)
+
 
 > *(Optional: Include screenshots in a `/public/screenshots` folder)*
 
