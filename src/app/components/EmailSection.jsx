@@ -31,7 +31,7 @@ const ContactSection = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/claudia-tannous-0471b32bb/"
+            href="https://www.linkedin.com/in/claude-tannous-a94b89367/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70 transition-opacity duration-300 cursor-pointer rounded-lg bg-white/10 p-3 flex items-center justify-center"
